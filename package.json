@@ -1,0 +1,9 @@
+{
+  "name": "framer-dev-server",
+  "version": "1.0.0",
+  "description": "Local dev server for Framer export",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}

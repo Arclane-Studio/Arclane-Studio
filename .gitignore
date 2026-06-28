@@ -1,0 +1,9 @@
+node_modules/
+.gemini/
+.agents/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.system_generated/
+*.log

@@ -1,0 +1,1 @@
+chrome-extension://lgblnfidahcdcjddiepkckcfdhpknnjh/content/matched-nodes-counter.js
